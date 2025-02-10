@@ -12,7 +12,7 @@ Work Completed
  2. Jenkins Pipeline Execution (Pipeline Output captured)  
  3. Lambda Function Deployment using ECR** (output captured)
 
-## **Screenshots Included
+Screenshots Included
 - Terraform resource creation
 - Jenkins pipeline execution
 - AWS resources (S3, RDS, ECR, Glue)
